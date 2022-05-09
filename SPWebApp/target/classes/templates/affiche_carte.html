@@ -25,12 +25,12 @@
             <div class="column"></div>
             <div class="column">
                 <div class="ui special cards" id="cardContainer">
-                    <template id="selectedCard">
+
                         <div class="card">
 
                             <div class="content">
-                                <img id="cardFamilyImgId" class="ui avatar image" th:src="${myCarte.getfamily_src()}" alt=""> <span id="cardFamilyNameId"> </span>
-                                <p th:utext="${myCarte.getfamily_name()}">...</p>
+                                <img id="cardFamilyImgId" class="ui avatar image" th:src="${myCarte.family_src}" alt=""> <span id="cardFamilyNameId"> </span>
+                                <p th:utext="${myCarte.family_name}">...</p>
                             </div>
                             <div class="image imageCard">
                                 <div class="blurring dimmable image">
@@ -41,43 +41,38 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <img id="cardImgId" class="ui centered tiny image" th:src="${myCarte.getimgurl()}" alt="">
+                                    <img id="cardImgId" class="ui centered tiny image" th:src="${myCarte.img_src}" alt="">
                                 </div>
                             </div>
                             <div class="content">
                                 <div class="ui form tiny">
                                     <div class="field">
-                                        <label id="cardNameId" th:utext="${myCarte.getname()}">...</label>
-                                        <textarea id="cardDescriptionId" class="overflowHiden" readonly="" rows="5" th:utext="${myCarte.getdescription()}">...</textarea>
+                                        <label id="cardNameId" th:utext="${myCarte.name}">...</label>
+                                        <textarea id="cardDescriptionId" class="overflowHiden" readonly="" rows="5" th:utext="${myCarte.description}">...</textarea>
                                     </div>
                                 </div>
                             </div>
                             <div class="content">
-                                <i class="heart outline icon"></i><span id="cardHPId" th:utext="${myCarte.gethp()}">...</span> 
+                                <i class="heart outline icon"></i><span id="cardHPId" th:utext="${myCarte.hp}">...</span> 
                                 <div class="right floated ">
                                     <i class="lightning outline icon"></i>
-                                    <span id="cardEnergyId" th:utext="${myCarte.getenergy()}">...</span> 
+                                    <span id="cardEnergyId" th:utext="${myCarte.energy}">...</span> 
                                 </div>
                             </div>
                             <div class="content">
                                 <span class="right floated">
                                     <i class=" wizard icon"></i>
-                                    <span id="cardAttackId" th:utext="${myCarte.getattack()}">...</span> 
+                                    <span id="cardAttackId" th:utext="${myCarte.attack}">...</span> 
                                 </span>
                                 <i class="protect icon"></i>
-                            <span id="cardDefenceId" th:utext="${myCarte.getdefence()}">...</span> 
+                            <span id="cardDefenceId" th:utext="${myCarte.defense}">...</span> 
                             </div>
                             <div class="content">
-                                <span id="affinity" th:utext="Affinity : ${myCarte.getfamily_name()}">...</span> 
+                                <span id="affinity" th:utext="'Affinity : '+${myCarte.affinity}">...</span> 
                             </div>
                         </div>
-                    </template>
 				</div>
         	</div>
         </div>
-        <script src="../lib/jquery-3.3.1.min.js"></script>
-        <script src="../lib/Semantic-UI-CSS-master/semantic.js"></script>
-        <script src="js/affiche_carte.js"></script> 
-
     </body>
 </html>

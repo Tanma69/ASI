@@ -66,36 +66,67 @@ public class CarteForm {
 	public String getaffinity() {
 		return this.affinity;
 	}
-	
-	
-	public void setfamily_src() {
+	public String getFamily_src() {
+		return family_src;
+	}
+	public void setFamily_src(String family_src) {
 		this.family_src = family_src;
 	}
-	public void setfamily_name() {
+	public String getFamily_name() {
+		return family_name;
+	}
+	public void setFamily_name(String family_name) {
 		this.family_name = family_name;
 	}
-	public void setimg_src() {
+	public String getImg_src() {
+		return img_src;
+	}
+	public void setImg_src(String img_src) {
 		this.img_src = img_src;
 	}
-	public void setname() {
-		this.name = name; 
+	public String getName() {
+		return name;
 	}
-	public void setdescription() {
+	public void setName(String name) {
+		this.name = name;
+	}
+	public String getDescription() {
+		return description;
+	}
+	public void setDescription(String description) {
 		this.description = description;
 	}
-	public void sethp() {
+	public int getHp() {
+		return hp;
+	}
+	public void setHp(int hp) {
 		this.hp = hp;
 	}
-	public void setenergy() {
+	public int getEnergy() {
+		return energy;
+	}
+	public void setEnergy(int energy) {
 		this.energy = energy;
 	}
-	public void setattack() {
+	public int getAttack() {
+		return attack;
+	}
+	public void setAttack(int attack) {
 		this.attack = attack;
 	}
-	public void setdefense() {
+	public int getDefense() {
+		return defense;
+	}
+	public void setDefense(int defense) {
 		this.defense = defense;
 	}
-	public void setaffinity() {
+	public String getAffinity() {
+		return affinity;
+	}
+	public void setAffinity(String affinity) {
 		this.affinity = affinity;
 	}
+	
+	
+	
 }

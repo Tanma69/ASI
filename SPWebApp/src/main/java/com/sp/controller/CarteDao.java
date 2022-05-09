@@ -38,7 +38,7 @@ public class CarteDao {
 	}
 	public Carte getCarteByName(String name){
 		for (Carte carteBean : myCarteList) {
-			if(carteBean.getname().equals(name)){
+			if(carteBean.getName().equals(name)){
 				return carteBean;
 			}
 		}

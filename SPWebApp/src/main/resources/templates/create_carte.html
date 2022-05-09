@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html xmlns:th="http://www.thymeleaf.org">
     <head>
         <!-- Standard Meta -->
         <meta charset="utf-8" />
@@ -9,7 +9,7 @@
         <!-- Site Properties -->
         <title>Grid Example - Semantic</title>
 
-        <link rel="stylesheet" type="text/css" href="../lib/Semantic-UI-CSS-master/semantic.min.css">
+        <link rel="stylesheet" type="text/css" href="/lib/Semantic-UI-CSS-master/semantic.min.css">
         <link rel="stylesheet" type="text/css" href="css/custom.css">
 
     </head>
@@ -20,23 +20,26 @@
             <div class="column"></div>
             <div class="column"></div>
             <div class="column">
-                <form class="ui form" method="GET">
+                       
+                <form class="ui form" th:action="@{/addCarte}" th:object="${CarteForm}" method="POST">
+                <fieldset >
                     <h3 class="ui dividing header">Name </h3>
                     <div class="field">
                         <label>Name</label>
-                        <input type="text" name="name" placeholder="Name" id="Name">
+                        <input type="text" placeholder="Name" id="Name" th:field="*{name}">
                     </div>
                     <div class="field">
                         <label>description</label>
-                        <input type="text" name="description" placeholder="description" id="Description">
+                        <input type="text"  placeholder="description" id="Description" th:field="*{description}">
                     </div>
                     <div class="field">
-                        <label>Image Url</label>
-                        <input type="text" name="image_Url" placeholder="Image Url" id="ImgURL">
+                        <label>Image URL</label>
+                        <input type="text" placeholder="Image Url" id="ImgURL" th:field="*{img_src}">
                     </div>
+                 </fieldset>
                     <div class="field">
                         <label>family</label>
-                        <select name="family_name" id="FamilyName">
+                        <select name="family_name" id="FamilyName" th:field="*{family_name}">
                             <option value="">--Please choose family</option>
                             <option value="family_name">family_name</option>
                             <option value="TestFam">TestFam</option>
@@ -45,7 +48,7 @@
                     </div>
                     <div class="field">
                         <label>affinity</label>
-                        <select name="Affinity" id="Affinity">
+                        <select name="Affinity" id="Affinity" th:field="*{affinity}">
                             <option value="">--Please choose affinity</option>
                             <option value="Fire">Fire</option>
                             <option value="Water">Water</option>
@@ -54,7 +57,7 @@
                     </div>
                     <div class="field">
                         <label>HP</label>
-                        <input type="range" min="10" max="100" step="1" name="HP" id="HP">
+                        <input type="range" min="10" max="100" step="1" name="HP" id="HP" th:field="*{hp}">
                     </div>
                     <div class="field">
                         <label>energy</label>
@@ -68,15 +71,13 @@
                         <label>defense</label>
                         <input type="range" min="0" max="50" step="1" name="defense" id="Defense">
                     </div>
-
                     <button class="ui button" type="reset" >Cancel</button>
 
-                    <button class="ui button" type="button" onclick="send()">+ OK</button>
+                    <input type="submit"  class="uk-button uk-button-default" value="Ok" />
                 </form>
             </div>
         </div>
 
     <p id="result"></p>
-    <script src="js/send.js"></script>
     </body>
 </html>

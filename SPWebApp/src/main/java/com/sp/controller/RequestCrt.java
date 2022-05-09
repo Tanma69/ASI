@@ -40,14 +40,14 @@ public class RequestCrt {
     public String addCarte(Model model) {
     	CarteForm carteForm = new CarteForm();
     	model.addAttribute("CarteForm", carteForm);
-    	return "CarteForm";
+    	return "create_carte";
     }
 
     @RequestMapping(value = { "/addCarte"}, method = RequestMethod.POST)
     public String addCarte(Model model, @ModelAttribute("CarteForm") CarteForm CarteForm) {
     	Carte p=CarteDao.addCarte(CarteForm.getfamily_src(),CarteForm.getfamily_name(), CarteForm.getimg_src(), CarteForm.getname(), CarteForm.getdescription(), CarteForm.gethp(), CarteForm.getenergy(), CarteForm.getattack(), CarteForm.getdefense(), CarteForm.getaffinity());
     	model.addAttribute("myCarte",p );
-    	return "CarteView";
+    	return "affiche_carte";
     }
 
     @RequestMapping(value = { "/list"}, method = RequestMethod.GET)
