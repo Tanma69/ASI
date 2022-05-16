@@ -1,0 +1,44 @@
+.button {
+  border: none;
+  color: white;
+  padding: 5% 10%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 100%;
+}
+.buttonPlay {
+  background-color: #4CAF50;
+
+  position: absolute;
+  left: 40%;
+  top: 65%;
+}
+
+.buttonBuy {
+  background-color: #edd400;
+  
+  position: absolute;
+  left: 65%;
+  top: 25%;
+}
+
+.buttonSell {
+  background-color: #f57900;
+  
+  position: absolute;
+  left: 15%;
+  top: 25%;
+}
+
+.Bank {
+	position: absolute;
+	left: 5%;
+	top: 5%;
+}
+
+.User {
+	position: absolute;
+	left: 90%;
+	top: 5%;
+}
