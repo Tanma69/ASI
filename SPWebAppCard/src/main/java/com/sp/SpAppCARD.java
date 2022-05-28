@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpAppCARD {
 	
 	public static void main(String[] args) {
-		//System.getProperties().put("server.port",8051);
+		System.getProperties().put("server.port",8081);
 		SpringApplication.run(SpAppCARD.class,args);
 	}
 }
