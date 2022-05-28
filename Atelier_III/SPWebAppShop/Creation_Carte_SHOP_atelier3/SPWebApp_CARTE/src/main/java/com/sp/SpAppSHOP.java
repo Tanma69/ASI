@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpAppSHOP {
 	
 	public static void main(String[] args) {
-		System.getProperties().put( "server.port", 8070);
+		System.getProperties().put( "server.port", 8071);
 		SpringApplication.run(SpAppSHOP.class,args);
 	}
 }
