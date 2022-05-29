@@ -9,6 +9,7 @@
   import org.springframework.web.bind.annotation.RequestMapping;
   import org.springframework.web.bind.annotation.RequestMethod;
   import com.sp.model.Card;
+  import com.sp.model.CardDTO;
   import com.sp.services.CardDAO;
   
 @Controller 
@@ -30,4 +31,19 @@ public class CardController {
   
   		return "index";
   	}
+  	
+    @RequestMapping(value = { "/addCard" }, method = RequestMethod.GET)
+    public String addCarte(Model model) {
+    	Card myCard = new Card();
+    	model.addAttribute("myCard", myCard);
+    	return "createNewCard";
+    }
+
+    @RequestMapping(value = { "/addCard" }, method = RequestMethod.POST)
+    public String addCarte(Model model, @ModelAttribute("myCard") Card myCard) {
+    	Card myNewCard = cardDao.addCard(myCard.getFamily_src(),myCard.getFamily_name(), myCard.getImg_src(), myCard.getName(), myCard.getDescription(), myCard.getHp(), myCard.getEnergy(), myCard.getAttack(), myCard.getDefense(), myCard.getAffinity(), myCard.getPrice(), myCard.getUser_id());
+    	model.addAttribute("myCard",myNewCard);
+    	return "displayNewCard";
+    }
+    
 }

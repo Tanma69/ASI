@@ -77,9 +77,10 @@ public class CardDAO {
 		return this.simulateCardBDD.get(myCard);
 	}
 
-	public void addCard(String family_src,String family_name,String img_src, String name, String description, int hp, int energy, int attack, int defense, String affinity, int price) {
-		Card myCard = new Card(family_src, family_name, img_src, name, description, hp, energy, attack, defense, affinity, price);
+	public Card addCard(String family_src,String family_name,String img_src, String name, String description, int hp, int energy, int attack, int defense, String affinity, int price, int user_id) {
+		Card myCard = new Card(family_src, family_name, img_src, name, description, hp, energy, attack, defense, affinity, price, user_id);
 		simulateCardBDD.add(myCard);
+		return myCard;
 	}
 	
 	private void changeOwner(int card_id, int new_user_id) {
