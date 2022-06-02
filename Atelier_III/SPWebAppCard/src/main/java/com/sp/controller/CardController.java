@@ -45,5 +45,5 @@ public class CardController {
     	model.addAttribute("myCard",myNewCard);
     	return "displayNewCard";
     }
-    
+
 }

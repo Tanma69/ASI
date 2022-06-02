@@ -17,6 +17,10 @@ public class Card {
 	private int user_id;
 	private static final int shop_user_id = 1;
 	
+	public enum WeekDay {
+		   MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY;
+		}
+	
 	public Card() {
 		this.family_src = "";
 		this.family_name = "";
