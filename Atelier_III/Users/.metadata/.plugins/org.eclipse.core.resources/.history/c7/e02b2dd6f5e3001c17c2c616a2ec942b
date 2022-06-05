@@ -1,0 +1,19 @@
+package com.sp.tools;
+
+import java.util.Optional;
+
+import com.sp.model.User;
+import com.sp.services.UsersDAO;
+
+public class UserService2 {
+	
+	//si l'id existe retourne le user dont l'id est demandé  sinon user null
+	public User getUser(UsersDAO UsersDAO , int id) {
+		
+		User user_trouve =UserDAO.findById(id);
+		
+		return user_trouve;
+		
+	}
+
+}

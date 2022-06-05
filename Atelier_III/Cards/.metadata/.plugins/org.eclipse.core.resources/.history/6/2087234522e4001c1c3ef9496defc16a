@@ -1,0 +1,37 @@
+package com.sp.tools;
+
+import org.springframework.web.client.RestTemplate;
+import com.sp.model.Card;
+import com.sp.services.CardDAO;
+
+public class Communication {
+	
+	static final String URL_CARTE="\"http://localhost:8080/vendu/";
+	static final String URL_ID="\"http://localhost:8080/id_vendu/";
+	static final String URL_ARGENT="\"http://localhost:8060/argent/";
+	
+	CarteDAO cartedao ;
+	
+	public static Card[] recuper_card() {
+		RestTemplate restTemplate = new RestTemplate();;
+		String reuslt = restTemplate.getForObject(URL_CARTE, Carte[].class);
+	}
+	
+	public static String recuperer_id_user() {
+		RestTemplate restTemplate = new RestTemplate();
+		String result = restTemplate.getForObject(URL_ID);
+	}
+	
+	public static int call_user_money(int id) {
+		RestTemplate restTemplate = new RestTemplate();
+		int result = restTemplate.getForObject(URL_ARGENT+id, String.class);
+		return result;
+	}
+	
+	public static int change_money(int id) {
+		RestTemplate restTemplate = new RestTemplate();
+		int result = restTemplate.getForObject(URL_ARGENT+id, String.class);
+		return result;
+	}
+}
+

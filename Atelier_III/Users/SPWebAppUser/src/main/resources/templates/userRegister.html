@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head xmlns:th="http://www.thymeleaf.org">
+        <!-- Standard Meta -->
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+        <!-- Site Properties -->
+        <title>Grid Example - Semantic</title>
+
+        <link rel="stylesheet" type="text/css" href="css/user.css">
+
+    </head>
+
+    <body>
+		<a href="/menu" onclick="javascript:event.target.port=8080"> Retourner au menu </a>
+    	<div >
+    		<h1> Registration </h1>
+    	</div>
+	        <div class="field">
+	            <label>FirstName</label>
+	            <input type="text" name="name" placeholder="Name" id="FirstName" >
+	        </div>
+			<div class="field">
+	            <label>LastName</label>
+	            <input type="text" name="lastname" placeholder="LastName" id="LastName" >
+	        </div>
+	        <div class="field">
+	            <label>Surname</label>
+	            <input type="text" name="surname" placeholder="surname" id="Surname" >
+	        </div>
+	        <div class="field">
+	            <label>Password</label>
+	            <input type="password" name="password" placeholder="password" id="password" >
+	        </div>
+
+			<button   class="ui button confirm" id="button1" onclick=bouton() > OK </button>		
+		<div id="enregistrement_OK"> </div>
+		
+		<script src="../lib/jquery-3.3.1.min.js"></script>
+		<script src="../java_script/register.js"></script>
+    </body>
+	
+</html>

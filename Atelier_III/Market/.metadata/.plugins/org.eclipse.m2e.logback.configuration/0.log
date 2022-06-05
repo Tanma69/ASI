@@ -1,0 +1,691 @@
+2022-06-04 10:56:54,003 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-06-04 10:57:34,895 [Worker-4: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tuto.springboot:SPWebAppCard:0.0.1-SNAPSHOT @ C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\pom.xml.
+2022-06-04 10:57:44,824 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 10:57:44,837 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 10:57:44,873 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 168 resources
+2022-06-04 10:57:50,427 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 10:57:50,428 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 10:57:53,535 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 10:57:53,610 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 10:57:53,667 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 168 resources
+2022-06-04 10:57:55,058 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 10:57:55,059 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 11:03:12,144 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:03:12,145 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 11:03:12,146 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 11:03:12,150 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:03:12,151 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 11:04:49,096 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:04:49,122 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 11:04:49,159 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 168 resources
+2022-06-04 11:04:49,206 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:04:49,207 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 11:04:54,602 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:04:54,632 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 11:04:54,672 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 168 resources
+2022-06-04 11:04:54,725 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:04:54,726 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 11:04:57,415 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:04:57,441 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 11:04:57,470 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 168 resources
+2022-06-04 11:04:57,549 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:04:57,550 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 11:10:09,000 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:10:09,000 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 11:10:09,000 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 11:10:09,016 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:10:09,016 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 11:12:24,813 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:12:24,828 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 11:12:24,849 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 168 resources
+2022-06-04 11:12:24,874 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:12:24,874 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 11:13:53,284 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:13:53,310 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 11:13:53,334 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 168 resources
+2022-06-04 11:13:53,357 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:13:53,358 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 11:16:00,134 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:16:00,147 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 11:16:00,161 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 168 resources
+2022-06-04 11:16:00,178 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:16:00,178 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 11:16:21,503 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:16:21,517 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 11:16:21,532 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 168 resources
+2022-06-04 11:16:21,551 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:16:21,552 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 11:17:26,003 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:17:26,016 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 11:17:26,031 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 168 resources
+2022-06-04 11:17:26,047 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:17:26,047 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 11:23:20,269 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:23:20,283 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 11:23:20,298 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 168 resources
+2022-06-04 11:23:20,325 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:23:20,326 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 11:23:47,458 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:23:47,472 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 11:23:47,485 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 168 resources
+2022-06-04 11:23:47,503 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:23:47,504 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 11:23:57,304 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:23:57,321 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 11:23:57,337 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 168 resources
+2022-06-04 11:23:57,396 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:23:57,397 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 11:24:03,453 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:24:03,466 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 11:24:03,481 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 168 resources
+2022-06-04 11:24:03,528 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:24:03,528 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 11:26:01,152 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:26:01,165 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 11:26:01,180 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 168 resources
+2022-06-04 11:26:01,219 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:26:01,219 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 11:26:15,217 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:26:15,232 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 11:26:15,247 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 168 resources
+2022-06-04 11:26:15,266 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:26:15,266 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 11:26:38,396 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:26:38,409 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 11:26:38,421 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 168 resources
+2022-06-04 11:26:38,437 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:26:38,438 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 11:28:37,231 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:28:37,250 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 11:28:37,267 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 168 resources
+2022-06-04 11:28:37,293 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:28:37,293 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 11:29:49,142 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:29:49,157 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 11:29:49,170 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 168 resources
+2022-06-04 11:29:49,187 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:29:49,188 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 11:33:53,656 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:33:53,669 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 11:33:53,682 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 168 resources
+2022-06-04 11:33:53,699 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:33:53,700 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 11:34:01,926 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:34:01,939 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 11:34:01,953 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 168 resources
+2022-06-04 11:34:01,971 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:34:01,972 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 11:39:20,507 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:39:20,507 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 11:39:20,507 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 11:39:20,507 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:39:20,507 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 11:40:35,469 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:40:35,469 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 11:40:35,470 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 11:40:35,474 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:40:35,474 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 11:40:46,273 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:40:46,274 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 11:40:46,274 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 11:40:46,278 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:40:46,278 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 11:42:46,079 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:42:46,079 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 11:42:46,079 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 11:42:46,090 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:42:46,090 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 11:42:51,904 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:42:51,904 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 11:42:51,905 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 11:42:51,910 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 11:42:51,910 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 12:05:06,134 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 12:05:06,135 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 12:05:06,135 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 12:05:06,139 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 12:05:06,139 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 12:05:41,550 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 12:05:41,573 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 12:05:41,613 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 168 resources
+2022-06-04 12:05:41,646 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 12:05:41,646 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 12:05:54,239 [Worker-51: Launching SpAppMarket] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 12:05:54,255 [Worker-51: Launching SpAppMarket] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 12:05:54,269 [Worker-51: Launching SpAppMarket] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 168 resources
+2022-06-04 12:05:54,289 [Worker-51: Launching SpAppMarket] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 12:05:54,289 [Worker-51: Launching SpAppMarket] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 12:07:34,485 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 12:07:34,515 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 12:07:34,528 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 168 resources
+2022-06-04 12:07:34,544 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 12:07:34,544 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 12:14:31,932 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 12:14:31,944 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 12:14:31,958 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 168 resources
+2022-06-04 12:14:31,974 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 12:14:31,974 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 12:14:49,194 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 12:14:49,209 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 12:14:49,225 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 168 resources
+2022-06-04 12:14:49,242 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 12:14:49,242 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 12:15:50,118 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 12:15:50,130 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 12:15:50,143 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 168 resources
+2022-06-04 12:15:50,159 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 12:15:50,159 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 12:15:53,595 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 12:15:53,656 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 12:15:53,677 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 168 resources
+2022-06-04 12:15:53,702 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 12:15:53,702 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 13:13:13,443 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 13:13:13,444 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 13:13:13,445 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 13:13:13,449 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 13:13:13,450 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 13:15:45,795 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 13:15:45,796 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 13:15:45,796 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 13:15:45,800 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 13:15:45,800 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 13:16:26,224 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 13:16:26,224 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 13:16:26,224 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 13:16:26,239 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 13:16:26,239 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 15:57:05,898 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 15:57:05,901 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 15:57:05,901 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 15:57:05,908 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 15:57:05,908 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 16:00:15,516 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:00:15,517 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 16:00:15,517 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 16:00:15,522 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:00:15,522 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 16:00:16,542 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:00:16,543 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 16:00:16,544 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 16:00:16,550 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:00:16,550 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 16:03:02,011 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:03:02,012 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 16:03:02,013 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 16:03:02,018 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:03:02,018 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 16:03:58,329 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:03:58,331 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 16:03:58,331 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 16:03:58,335 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:03:58,336 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 16:04:44,427 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:04:44,428 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 16:04:44,428 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 16:04:44,432 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:04:44,433 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 16:06:02,151 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:06:02,152 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 16:06:02,152 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 16:06:02,156 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:06:02,156 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 16:10:28,771 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:10:28,772 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 16:10:28,772 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 16:10:28,776 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:10:28,776 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 16:15:45,712 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:15:45,712 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 16:15:45,713 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 16:15:45,716 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:15:45,717 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 16:15:46,738 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:15:46,739 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 16:15:46,739 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 16:15:46,743 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:15:46,744 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 16:16:48,027 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:16:48,028 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 16:16:48,028 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 16:16:48,032 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:16:48,032 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 16:22:00,744 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:22:00,745 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 16:22:00,745 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 16:22:00,751 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:22:00,751 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 16:29:00,648 [Worker-80: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tuto.springboot:SPWebAppCard:0.0.1-SNAPSHOT @ C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\pom.xml.
+2022-06-04 16:29:01,171 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:29:01,175 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 16:29:01,175 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 16:29:01,178 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:29:01,179 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 16:29:03,389 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:29:03,419 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 16:29:03,443 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 16:29:04,131 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:29:04,131 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 16:29:07,056 [Worker-81: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-06-04 16:29:07,647 [Worker-81: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tuto.springboot:SPWebAppCard:0.0.1-SNAPSHOT @ C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\pom.xml.
+2022-06-04 16:29:08,201 [Worker-81: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SPWebAppMarket/src/main/java
+2022-06-04 16:29:08,202 [Worker-81: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SPWebAppMarket/src/main/resources
+2022-06-04 16:29:08,205 [Worker-81: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SPWebAppMarket/src/main/resources
+2022-06-04 16:29:08,207 [Worker-81: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SPWebAppMarket/src/test/java
+2022-06-04 16:29:08,557 [Worker-81: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-06-04 16:29:09,262 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:29:09,265 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 16:29:09,289 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 16:29:10,166 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:29:10,167 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 16:41:06,173 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:41:06,175 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 16:41:06,175 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 16:41:06,180 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:41:06,181 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 16:45:00,758 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:45:00,758 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 16:45:00,758 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 16:45:00,763 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:45:00,764 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 16:45:04,867 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:45:04,867 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 16:45:04,868 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 16:45:04,873 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:45:04,874 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 16:45:22,920 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:45:22,921 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 16:45:22,921 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 16:45:22,926 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:45:22,926 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 16:46:18,237 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:46:18,238 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 16:46:18,238 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 16:46:18,242 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 16:46:18,242 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:10:30,223 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:10:30,224 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 17:10:30,224 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:10:30,228 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:10:30,228 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:10:31,289 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:10:31,289 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 17:10:31,290 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:10:31,294 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:10:31,295 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:13:06,759 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:13:06,759 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 17:13:06,759 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:13:06,763 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:13:06,763 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:14:27,152 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:14:27,152 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 17:14:27,152 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:14:27,156 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:14:27,156 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:15:55,730 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:15:55,730 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 17:15:55,730 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:15:55,735 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:15:55,735 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:19:27,363 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-06-04 17:20:03,348 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:20:03,362 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:20:03,388 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 17:20:03,423 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:20:03,423 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:20:21,909 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:20:21,933 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:20:21,952 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 17:20:21,980 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:20:21,980 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:20:37,687 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:20:37,701 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:20:37,718 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 17:20:37,742 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:20:37,742 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:21:04,069 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:21:04,090 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:21:04,114 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 17:21:04,136 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:21:04,137 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:22:55,913 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:22:55,933 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:22:55,952 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 17:22:55,974 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:22:55,974 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:23:03,034 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:23:03,051 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:23:03,071 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 17:23:03,098 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:23:03,099 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:23:25,077 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:23:25,092 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:23:25,109 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 17:23:25,128 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:23:25,128 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:23:34,196 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:23:34,210 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:23:34,224 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 17:23:34,243 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:23:34,244 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:24:59,523 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:24:59,526 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 17:24:59,526 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:24:59,533 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:24:59,534 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:29:09,380 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:29:09,394 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:29:09,412 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 17:29:09,430 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:29:09,430 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:31:37,357 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:31:37,378 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:31:37,396 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 17:31:37,420 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:31:37,420 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:32:32,691 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:32:32,704 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:32:32,719 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 17:32:32,737 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:32:32,737 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:35:30,171 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:35:30,186 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:35:30,199 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 17:35:30,217 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:35:30,217 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:35:53,853 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:35:53,868 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:35:53,882 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 17:35:53,898 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:35:53,899 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:36:10,802 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:36:10,816 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:36:10,829 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 17:36:10,847 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:36:10,847 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:36:58,890 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:36:58,904 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:36:58,918 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 17:36:58,936 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:36:58,936 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:37:24,728 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:37:24,746 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:37:24,762 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 17:37:24,778 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:37:24,779 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:38:23,382 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:38:23,415 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:38:23,433 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 17:38:23,458 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:38:23,459 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:39:10,977 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:39:10,993 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:39:11,009 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 17:39:11,026 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:39:11,026 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:39:33,042 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:39:33,062 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:39:33,079 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 17:39:33,099 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:39:33,099 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:48:19,253 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:48:19,254 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 17:48:19,254 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:48:19,258 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:48:19,259 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:50:26,074 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:50:26,074 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 17:50:26,075 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:50:26,079 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:50:26,080 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:52:07,703 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:52:07,704 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 17:52:07,704 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:52:07,709 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:52:07,709 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:53:21,288 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:53:21,310 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:53:21,332 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 17:53:21,353 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:53:21,354 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:54:01,483 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:54:01,496 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:54:01,514 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 17:54:01,532 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:54:01,532 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:55:26,968 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:55:27,017 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:55:27,034 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 17:55:27,055 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:55:27,056 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:55:47,191 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:55:47,211 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:55:47,229 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 17:55:47,257 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:55:47,257 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:56:58,082 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:56:58,096 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:56:58,111 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 17:56:58,131 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:56:58,132 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:58:49,972 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:58:49,993 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:58:50,017 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 17:58:50,042 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:58:50,042 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 17:59:03,897 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:59:03,909 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 17:59:03,925 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 17:59:03,943 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 17:59:03,943 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 18:00:49,247 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:00:49,248 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 18:00:49,248 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 18:00:49,254 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:00:49,254 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 18:01:06,356 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:01:06,370 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 18:01:06,385 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 18:01:06,402 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:01:06,402 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 18:02:13,682 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:02:13,698 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 18:02:13,717 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 18:02:13,741 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:02:13,742 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 18:03:37,221 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:03:37,239 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 18:03:37,260 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 18:03:37,284 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:03:37,284 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 18:04:28,604 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:04:28,619 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 18:04:28,635 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 18:04:28,660 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:04:28,661 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 18:04:34,819 [Worker-34: Launching SpAppMarket] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:04:34,833 [Worker-34: Launching SpAppMarket] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 18:04:34,848 [Worker-34: Launching SpAppMarket] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 18:04:34,865 [Worker-34: Launching SpAppMarket] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:04:34,865 [Worker-34: Launching SpAppMarket] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 18:04:54,294 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:04:54,306 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 18:04:54,320 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 18:04:54,337 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:04:54,337 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 18:05:26,995 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:05:26,995 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 18:05:26,995 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 18:05:26,999 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:05:27,000 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 18:06:49,764 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:06:49,783 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 18:06:49,800 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 18:06:49,820 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:06:49,820 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 18:06:56,887 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:06:56,903 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 18:06:56,919 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 18:06:56,944 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:06:56,945 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 18:07:52,445 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:07:52,470 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 18:07:52,491 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 18:07:52,520 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:07:52,521 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 18:08:10,421 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:08:10,444 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 18:08:10,471 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 18:08:10,510 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:08:10,511 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 18:08:26,410 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:08:26,421 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 18:08:26,434 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 18:08:26,450 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:08:26,450 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 18:10:20,593 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:10:20,606 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 18:10:20,621 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 18:10:20,639 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:10:20,640 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 18:10:56,851 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:10:56,869 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 18:10:56,886 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 18:10:56,903 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:10:56,903 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 18:13:34,779 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:13:34,799 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 18:13:34,821 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 18:13:34,847 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:13:34,847 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 18:14:59,024 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:14:59,038 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 18:14:59,058 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 18:14:59,082 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:14:59,082 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 18:45:28,260 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:45:28,261 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 18:45:28,261 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 18:45:28,265 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:45:28,266 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 18:48:36,769 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:48:36,789 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 18:48:36,810 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 18:48:36,828 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:48:36,828 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 18:48:51,999 [Worker-43: Launching SpAppMarket] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:48:52,022 [Worker-43: Launching SpAppMarket] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 18:48:52,041 [Worker-43: Launching SpAppMarket] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 18:48:52,065 [Worker-43: Launching SpAppMarket] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:48:52,066 [Worker-43: Launching SpAppMarket] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 18:51:04,721 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:51:04,741 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 18:51:04,764 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 18:51:04,788 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:51:04,788 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 18:51:19,343 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:51:19,361 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 18:51:19,379 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 18:51:19,398 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:51:19,398 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 18:52:24,353 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:52:24,353 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 18:52:24,354 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 18:52:24,360 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:52:24,360 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 18:53:44,395 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:53:44,395 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 18:53:44,396 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 18:53:44,400 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:53:44,400 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 18:59:24,550 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:59:24,563 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 18:59:24,577 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 18:59:24,596 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 18:59:24,596 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 19:00:30,711 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:00:30,723 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 19:00:30,735 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 19:00:30,751 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:00:30,752 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 19:00:38,284 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:00:38,302 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 19:00:38,320 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 19:00:38,343 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:00:38,343 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 19:01:15,183 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:01:15,184 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 19:01:15,185 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 19:01:15,190 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:01:15,191 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 19:02:04,695 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:02:04,707 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 19:02:04,720 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 19:02:04,736 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:02:04,736 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 19:02:25,117 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:02:25,117 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 19:02:25,117 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 19:02:25,122 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:02:25,122 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 19:03:44,498 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:03:44,517 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 19:03:44,538 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 19:03:44,563 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:03:44,563 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 19:03:59,747 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:03:59,759 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 19:03:59,772 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 19:03:59,787 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:03:59,788 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 19:04:31,268 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:04:31,299 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 19:04:31,313 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 19:04:31,331 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:04:31,331 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 19:04:44,178 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:04:44,196 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 19:04:44,216 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 19:04:44,238 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:04:44,238 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 19:06:54,214 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:06:54,227 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 19:06:54,243 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 19:06:54,261 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:06:54,261 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 19:06:56,347 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:06:56,359 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 19:06:56,372 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 19:06:56,387 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:06:56,388 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 19:06:58,769 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:06:58,782 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 19:06:58,796 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 19:06:58,856 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:06:58,856 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 19:07:47,859 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:07:47,878 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 19:07:47,896 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 19:07:47,918 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:07:47,919 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 19:07:50,965 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:07:50,965 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-06-04 19:07:50,965 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 19:07:50,967 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:07:50,967 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 19:21:35,330 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:21:35,346 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 19:21:35,363 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 19:21:35,384 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:21:35,384 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 19:22:15,765 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:22:15,779 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 19:22:15,793 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 19:22:15,811 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:22:15,811 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources
+2022-06-04 19:22:36,074 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:22:36,091 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-06-04 19:22:36,108 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 169 resources
+2022-06-04 19:22:36,129 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-06-04 19:22:36,130 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\arthu\Desktop\ASI_new\Market\SPWebAppMarket\src\test\resources

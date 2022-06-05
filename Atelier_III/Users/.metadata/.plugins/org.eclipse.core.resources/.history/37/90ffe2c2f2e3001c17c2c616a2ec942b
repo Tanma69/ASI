@@ -1,0 +1,33 @@
+package com.sp.services;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Random;
+
+import org.springframework.boot.autoconfigure.security.SecurityProperties.User;
+import org.springframework.stereotype.Service;
+
+import com.sp.model.*;
+
+@Service
+public class UsersDAO {
+	private List<User> liste_user;
+
+	public UsersDAO() {
+		liste_user = new ArrayList<User>();
+		createUsers();
+	}
+
+	private void createUsers() {
+		
+		liste_user.add( new User("String firstname", "String lastname", "String username", "String password" ,));
+		
+	}
+
+	public List<User> getallUsers() {
+		return this.liste_user;
+	}
+	
+
+
+}

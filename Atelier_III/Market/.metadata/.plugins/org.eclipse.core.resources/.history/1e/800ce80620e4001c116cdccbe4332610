@@ -1,0 +1,57 @@
+package com.sp.controller;
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.server.ResponseStatusException;
+
+import com.sp.model.Carte;
+import com.sp.model.User;
+import com.sp.tools.Comm;
+
+@RestController
+public class CardsRestController {
+	
+	@Autowired
+	CarteDao carteDao;
+	Carte carte_vendu;
+	String id_vendu ;
+	
+    @RequestMapping(value = { "/cardsget"}, method = RequestMethod.GET)
+    public List<Carte> viewList() {
+    	carteDao.supprimer();
+    	Comm.AjoutCartes(carteDao);
+    	return carteDao.getCarteList();
+    	
+    }
+    
+    @RequestMapping(value = { "/vendre"}, method = RequestMethod.POST)
+    public void carte_vendu(@RequestBody Carte body) {
+    	carte_vendu=body;
+    	
+    }
+    
+    @RequestMapping(value = { "/vendu"}, method = RequestMethod.GET)
+    public Carte carte_vendu2() {
+    	return carte_vendu;
+    	
+    }
+    @RequestMapping(value = { "/vendre_id"}, method = RequestMethod.POST)
+    public void carte_vendu_id(@RequestBody String body) {
+    	id_vendu=body;
+    	
+    }
+    
+    @RequestMapping(value = { "/vendu_id"}, method = RequestMethod.GET)
+    public String carte_vendu2_id() {
+    	return id_vendu;
+    	
+    }
+    
+    
+}

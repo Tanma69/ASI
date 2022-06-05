@@ -1,0 +1,66 @@
+.button {
+  border: none;
+  color: white;
+  padding: 5% 10%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 100%;
+}
+.buttonPlay {
+  background-color: #8ae234;
+
+  position: absolute;
+  left: 40%;
+  top: 65%;
+}
+.buttonPlay:hover {background-color: #73d216}
+
+.buttonPlay:active {background-color: #4e9a06}
+
+.buttonBuy {
+  background-color: #fce94f;
+  
+  position: absolute;
+  left: 65%;
+  top: 25%;
+}
+.buttonBuy:hover {background-color: #edd400}
+
+.buttonBuy:active {background-color: #c4a000}
+
+.buttonSell {
+  background-color: #fcaf3e;
+  
+  position: absolute;
+  left: 15%;
+  top: 25%;
+}
+
+.buttonSell:hover {background-color: #f57900}
+
+.buttonSell:active {background-color: #ce5c00}
+
+.Bank {
+	position: absolute;
+	left: 5%;
+	top: 5%;
+}
+
+.User {
+	position: absolute;
+	left: 90%;
+	top: 5%;
+}
+
+.createRoom {
+  background-color: #888a85;
+  
+  position: absolute;
+  left: 65%;
+  top: 65%;
+}
+
+.createRoom:hover {background-color: #555753}
+
+.createRoom:active {background-color: #2e3436}
